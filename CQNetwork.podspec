@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "CQNetwork"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "一个简单的iOS网络库的封装."
   s.description  = "这是一个简单的iOS网络库这是一个简单的iOS网络库这是一个简单的iOS网络库这是一个简单的iOS网络库"
   s.homepage     = "https://github.com/liuchengquan/CQNetwork"
@@ -58,7 +58,7 @@ Pod::Spec.new do |s|
 
   s.source_files  = "CQNetwork/*"
   # s.exclude_files = "Classes/Exclude"
-  s.public_header_files = "Classes/**/*.h"
+  s.public_header_files = "CQNetwork/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
