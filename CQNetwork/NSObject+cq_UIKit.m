@@ -18,4 +18,9 @@
     return btn;
 }
 
+
+- (void)methodFortest{
+    NSLog(@"just for test !");
+}
+
 @end
