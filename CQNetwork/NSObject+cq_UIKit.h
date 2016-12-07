@@ -14,4 +14,6 @@
 // 通过标题，事件创建按钮
 - (UIButton * )createBtnWithTitle:(NSString *)title action:(SEL)action;
 
+- (void)methodFortest;
+
 @end
